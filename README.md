@@ -36,5 +36,5 @@
 - The creation of the mod was made possible through the use of existing modding tools, as well as the collaboration of various members of the community.
 
 ### *License*
-- The mod is released under [insert your license here, if applicable]. Please respect the work and the guidelines of the modding community when using or redistributing this mod.
+- The mod is released under MIT License. Please respect the work and the guidelines of the modding community when using or redistributing this mod.
 
