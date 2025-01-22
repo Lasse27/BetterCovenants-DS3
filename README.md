@@ -36,6 +36,7 @@
 - Special thanks to the *Dark Souls* modding community for their contributions to modding resources and tools.
 - The creation of the mod was made possible through the use of existing modding tools, as well as the collaboration of various members of the community.
 
-### License
+## License
 - The mod is released under MIT License. Please respect the work and the guidelines of the modding community when using or redistributing this mod.
 
+![Better Covenants Banner](https://github.com/Lasse27/BetterCovenants-DS3/blob/main/wiki/images/Better%20Covenants%20Symbol%20Banner%202.png)
