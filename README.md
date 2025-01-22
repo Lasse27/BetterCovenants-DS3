@@ -1,4 +1,7 @@
+![Better Covenants Banner](https://github.com/Lasse27/BetterCovenants-DS3/blob/main/wiki/images/Better%20Covenants%20Banner.png)
+
 ## Overview
+
 "Better Covenants DS3" is a comprehensive mod that enhances the covenants in *Dark Souls 3*. This mod aims to make each covenant more rewarding and in line with the game's lore by introducing new resources, items, and rewards. All covenants are modified to offer unique, lore-driven bonuses, including materials and items that fit the Dark Souls universe. Players will now find more value in joining and progressing through covenants, as each provides distinct, lore-friendly incentives.
 
 ## Features
